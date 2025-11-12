@@ -8,27 +8,27 @@
 ## **Features**
 
 ### **Company Management**
-- 📄 **Dynamic Company List**: Manage a list of companies with detailed job titles, locations, industries, and websites.
-- 📂 **CSV Integration**: Import and sync company data from a CSV file, ensuring data consistency and operational efficiency with PostgreSQL.
-- 🔍 **Search Companies**: Search for companies based on job title, location, and other attributes.
-- 🌐 **Wikipedia Integration**: Fetch company details directly from Wikipedia using the company name.
+- **Dynamic Company List**: Manage a list of companies with detailed job titles, locations, industries, and websites.
+- **CSV Integration**: Import and sync company data from a CSV file, ensuring data consistency and operational efficiency with PostgreSQL.
+- **Search Companies**: Search for companies based on job title, location, and other attributes.
+- **Wikipedia Integration**: Fetch company details directly from Wikipedia using the company name.
 
 ### **Resume Management**
-- 📤 **Upload Resumes**: Upload resumes and associate them with specific job titles or fields.
-- 📝 **Version Control**: Manage multiple versions of resumes tailored to different job applications.
-- 📥 **Download Resumes**: Download resumes in various formats (PDF, Word, or Text).
-- 👀 **View Resumes**: Preview resume content directly in the browser.
-- ✏️ **Edit/Delete Resumes**: Update or delete resumes as needed.
+- **Upload Resumes**: Upload resumes and associate them with specific job titles or fields.
+- **Version Control**: Manage multiple versions of resumes tailored to different job applications.
+- **Download Resumes**: Download resumes in various formats (PDF, Word, or Text).
+- **View Resumes**: Preview resume content directly in the browser.
+- **Edit/Delete Resumes**: Update or delete resumes as needed.
 
 ---
 
 ## **Tech Stack**
-- 🚀 **FastAPI**: Backend framework used to handle API requests and business logic.
-- ⚛️ **React & TypeScript**: Modern frontend for dynamic, responsive interfaces.
-- 🗄️ **PostgreSQL**: Relational database optimized for complex queries and data integrity.
-- 🧩 **SQLAlchemy**: ORM used for interacting with the PostgreSQL database.
-- 🐍 **Pandas**: Python library for handling and manipulating CSV data.
-- 🌐 **Wikipedia API**: Fetches company descriptions and details.
+- **FastAPI**: Backend framework used to handle API requests and business logic.
+- **React & TypeScript**: Modern frontend for dynamic, responsive interfaces.
+- **PostgreSQL**: Relational database optimized for complex queries and data integrity.
+- **SQLAlchemy**: ORM used for interacting with the PostgreSQL database.
+- **Pandas**: Python library for handling and manipulating CSV data.
+- **Wikipedia API**: Fetches company descriptions and details.
 
 ---
 
